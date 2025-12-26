@@ -18,4 +18,4 @@ print("Sum of list items:", total)
 <img width="248" height="72" alt="image" src="https://github.com/user-attachments/assets/a375003e-d52a-4348-9859-04073c068e0a" />
 
 ## Result
-the code ahs successfully executed
+the code has successfully executed
